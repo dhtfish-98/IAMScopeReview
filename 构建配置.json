@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "IAMScopeReview",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "9bd850f391ec8dfb9e1f435b2575ae23bf74d624",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "61cc81f0067016c9425160ac683a0791c1f9332a48ffe655d21b2602286e21be"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "2ec34c876f2a3caf6f87c86f02daa683e7bc3ae9d9c674f9b4b7f1e9ce7989e6"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "27c875e825785cb2a9741ff095006fc765d41e80efb0cb919e2c8a3b1a80aca8"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "b7bbd386f58ee5e8d7b3d77ca058264c2016c5ba49ddb1b5474c7fc2535fe263"
+    }
+  ],
+  "platform_entries": []
+}
